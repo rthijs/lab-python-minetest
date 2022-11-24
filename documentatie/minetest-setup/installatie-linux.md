@@ -1,20 +1,13 @@
-# Installatie Minetest en Miney
+# Installatie op Ubuntu
 
-## Windows
+Ik ga hier even door de installatie op Ubuntu 22.04 LTS omdat deze de recentste LTS release is en dus lang ondersteuning heeft. Als je een andere Linux distributie gebruikt zijn de stappen gelijkaardig maar moet je de commandos aanpassen als je geen `apt` gebruikt om packages te installeren.
 
-Er is een snelle manier [hier](https://github.com/miney-py/miney_distribution/releases).
-
-Stap voor stap instructies [hier](./installatie-windows.md).
-
-## Linux
-
-Volg de instructies voor je distributie. Voor Ubuntu, wat we gebruiken op de Coderdojolaptops, zijn de instructies beschreven in de [Miney quickstart](https://miney.readthedocs.io/en/latest/quickstart.html):
-
+De installatieprocedure is ook beschikbaar op de pagina [quickstart](https://miney.readthedocs.io/en/latest/quickstart.html#linux) van de Miney documentatie.
 
 ```shell
 $ sudo apt-get install minetest fonts-crosextra-caladea fonts-crosextra-carlito minetest-mod-moreblocks minetest-mod-moreores minetest-mod-pipeworks minetest-server minetestmapper
 
-$ sudo apt-get install luajit lua-socket lua-cjson idle3 python3-pip
+$ sudo apt-get install luajit lua-socket lua-cjson idle3 python3-pip git
 
 $ pip3 install miney
 ```
