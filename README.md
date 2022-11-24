@@ -21,7 +21,7 @@ Zelf een server starten is ook makkelijk dus je kan snel met je vrienden een LAN
 Er staan instructies op de [quickstart pagina](https://miney.readthedocs.io/en/latest/quickstart.html) van Miney, ik heb gedetailleerde instructies voor Windows en linux hier:
 
  - [Windows](./documentatie/minetest-setup/installatie-windows.md)
- - [Linux]
+ - [Linux](./documentatie/minetest-setup/installatie-linux.md)
 
 
 
