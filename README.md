@@ -20,35 +20,9 @@ Zelf een server starten is ook makkelijk dus je kan snel met je vrienden een LAN
 
 Er staan instructies op de [quickstart pagina](https://miney.readthedocs.io/en/latest/quickstart.html) van Miney, ik heb gedetailleerde instructies voor Windows en linux hier:
 
- - [Windows]
+ - [Windows](./documentatie/minetest-setup/installatie-windows.md)
  - [Linux]
 
-Gedetailleerde
-
-## Windows 
-
-VCRUNTIME140.dll
-VCRUNTIME140_1.dll
-MSVCP140.dll
-
-![visual studio build tools](./images/visualstudiobuildtools.png)
-
-Visual Studio 2019 Build Tools --> visualstudio.microsoft.com/downloads
-
-In Windows heb je een launcher `miney_launcher.exe` in je ge-unzipte download die je kan gebruiken om te starten.
-
-![miney_launcher.exe](./images/miney-quickstart-unzipped.png)
-
-Je gaat wat beveiligingswaarschuwingen krijgen, net zoals bij alles wat je installeert van het internet. Klik je hierdoor en je krijgt uiteindelijk dit:
-
-![miney home screen](./images/miney-quickstart-home-screen.png)
-
-Klik op Quickstart om meteen een spel te starten met een Python ontwikkelomgeving er bij. Dan ben je klaar om te beginnen programmeren.
-
-
-## Linux 
-
-In Linux start je een nieuw Minetest-spel, vergeet niet de mods aan te zetten in de configuratietab.
 
 
 
