@@ -4,6 +4,13 @@ Ik ga hier even door de installatie op Ubuntu 22.04 LTS omdat deze de recentste 
 
 De installatieprocedure is ook beschikbaar op de pagina [quickstart](https://miney.readthedocs.io/en/latest/quickstart.html#linux) van de Miney documentatie.
 
+We installeren eerst wat packages die we nodig hebben, zoals `python`, `pip` en `git`. Ook `python-is-python3` zodat we niet steeds `python3` moeten typen maar gewoon `python`.
+
+```shell
+sudo apt install python3 python3-pip git idle3 luajit lua-socket lua-cjson
+```
+
+
 ```shell
 $ sudo apt-get install minetest fonts-crosextra-caladea fonts-crosextra-carlito minetest-mod-moreblocks minetest-mod-moreores minetest-mod-pipeworks minetest-server minetestmapper
 

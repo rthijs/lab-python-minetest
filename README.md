@@ -23,6 +23,14 @@ Er staan instructies op de [quickstart pagina](https://miney.readthedocs.io/en/l
  - [Windows](./documentatie/minetest-setup/installatie-windows.md)
  - [Linux](./documentatie/minetest-setup/installatie-linux.md)
 
+Je moet beheerdersrechten hebben op je computer. De laptop van papa of mama waar je niets op mag installeren gaat je dus niet van nut zijn hier.
+
+Als Miney geïnstalleerd en geconfigureerd is dan kan je beginnen met de uitdagingen. Er zijn een aantal hulpkaarten die je kunnen helpen maar als je Python wil leren moet je ook leren van zelf code te schrijven in plaats van alles over te typen.
+
+## Cheatcheats
+
+## De uitdagingen
+
 
 
 
